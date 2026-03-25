@@ -1,7 +1,8 @@
 {
   "headers": {
    "/*": {
-     "X-Author": "sergei.t.web"
+     "X-Author": "sergei.t.web",
+     "Access-Control-Allow-Origin": "*"
    }
   }
 }
